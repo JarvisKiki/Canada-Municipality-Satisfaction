@@ -3,9 +3,7 @@ Power BI Project: Canadian Municipality Satisfaction Survey Analysis
 
 This project explores and analyzes a dataset of citizen satisfaction surveys conducted across Canadian municipalities, provided by the Context Research Group and StatsCanada. The goal is to create an interactive dashboard that allows for in-depth exploration of citizen satisfaction levels with various municipal services.
 
-Key Features:
-
-Interactive Dashboard:
+Key Features: Interactive Dashboard
 
 Municipality-level Analysis: Explore satisfaction scores for individual municipalities.
 Service-level Analysis: Analyze satisfaction across different municipal services (e.g., roads, parks, public transit).
