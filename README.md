@@ -6,10 +6,10 @@ This project explores and analyzes a dataset of citizen satisfaction surveys con
 Key Features: Interactive Dashboard
 
 Municipality-level Analysis: Explore satisfaction scores for individual municipalities.
-Service-level Analysis: Analyze satisfaction across different municipal services (e.g., roads, parks, public transit).
-Demographic Analysis: Investigate how satisfaction varies across demographics (e.g., age, income, household type).
+Service-level Analysis: Analyze satisfaction across different municipal services (e.g., roads, water, police, etc).
+Demographic Analysis: Investigate how satisfaction varies across demographics (e.g. gender,education, household income).
 Filtering and Slicing: Dynamically filter and slice data to focus on specific municipalities.
-Visualizations: Utilized a variety of visualizations (e.g., bar charts, line graphs, maps) to effectively communicate insights.
+Visualizations: Utilized a variety of visualizations (e.g., bar charts, pie charts, etc.) to effectively communicate insights.
 ![Alt text](https://github.com/JarvisKiki/Canada-Municipality-Satisfaction/blob/main/Municipality_Dashboard.png)
 
 Data Sources:
