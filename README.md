@@ -13,7 +13,8 @@ Visualizations: Utilized a variety of visualizations (e.g., bar charts, line gra
 ![Alt text](https://github.com/JarvisKiki/Canada-Municipality-Satisfaction/blob/main/Municipality_Dashboard.png)
 
 Data Sources:
-https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?LANG=E&GENDERlist=1&STATISTIClist=1&DGUIDlist=2021A000011124&HEADERlist=37&SearchText=Canada
+Satisfaction Survey provided by Context Research Group
+StatsCanada - https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?LANG=E&GENDERlist=1&STATISTIClist=1&DGUIDlist=2021A000011124&HEADERlist=37&SearchText=Canada
 
 Project Goals:
 
